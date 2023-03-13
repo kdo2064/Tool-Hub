@@ -28,6 +28,7 @@ try:
     if __name__=="__main__":
         response = requests.get("https://www.google.com")
         if response.status_code == 200:
+            os.system("clear")
             print(logo)
             print(f"{green}[-]Connected... ")
             time.sleep(1)    
