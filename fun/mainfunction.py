@@ -36,6 +36,15 @@ def mainoption():
     elif ask == "4":
         about()
         aboutexit()
+    elif ask=="5":
+        os.system("exit")
+    else:
+        print(f"{red}invalied option..! Try again")
+        time.sleep(0.5)
+        os.system("clear")
+        print(logo)
+        print(mainmenu)
+        mainoption()
 
 # about option 
 
@@ -48,6 +57,7 @@ def aboutexit():
     elif ask == "3":
         krishnainsta()
     elif ask=="0":
+        os.system("clear")
         print(logo)
         print(mainmenu)
         mainoption()
@@ -62,6 +72,7 @@ def aboutexit():
 def toolsinstall():
     ask=input(f"{yellow}Choose an Option:{bgreen}")
     if ask =="1":
+        os.system("cd $HOME && mkdir Cyber-D-Virus")
         cyberdvi()
         cyberdvirus()
     elif ask == "2":

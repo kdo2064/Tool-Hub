@@ -3,6 +3,7 @@ import time
 from fun.mainfunction import *
 import requests
 from fun.logo import *
+from playsound import playsound
 
 black="\033[0;30m"
 red="\033[0;31m"
@@ -23,6 +24,9 @@ nc="\033[00m"
 os.system("clear")
 print(logo)
 print(f"{green}[-]Checking Internet Connection...")
+audio_file_path = "fun/audio.mp3"
+playsound(audio_file_path)
+
 
 try:
     if __name__=="__main__":

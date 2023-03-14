@@ -70,7 +70,7 @@ only ! Author will not be responsible for
 any misuse of this toolkit !
 
 {bpurple}[-]About Update:
-{bred}Coming Soon....
+{bred}some Bug fixed..!
 
 {bgreen}[-]Dev SocialMedia
 {red}[{byellow}1{red}]{white}-{red}>{bcyan}K.D.O   : Instagram
