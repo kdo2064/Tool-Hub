@@ -9,5 +9,5 @@
 ->pkg install python3<br>
 -> git clone https://github.com/kdo2064/Tool-Hub<br>
 ->cd Tool-Hub<br>
-->pip install -r req.txt<br>
-->python3 main.py<br>
+->python3 setup.py<br>
+-->once you run setup.py then after you have to run "ToolHub.py"
