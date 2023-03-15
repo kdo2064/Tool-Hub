@@ -29,7 +29,8 @@ nc="\033[00m"
 if __name__=="__main__":   
         os.system("clear")
         print(logo)
-        os.system("pkg install play-audio && pkg install sox -y && pip install requests && rm -rf setup.py && python3 main.py")
+        os.system("pkg install play-audio && pkg install sox -y && pip install requests && rm -rf setup.py && python3 ToolHub.py")
+
 
 
 
