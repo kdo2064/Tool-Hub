@@ -2,9 +2,8 @@ import os
 import time
 import os
 import time
-from fun.mainfunction import *
 import requests
-from fun.logo import *
+
 
 
 black="\033[0;30m"
