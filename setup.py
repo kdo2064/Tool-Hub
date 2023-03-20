@@ -1,7 +1,5 @@
 import os
 import time
-import os
-import time
 import requests
 
 
@@ -22,7 +20,15 @@ bcyan="\033[1;36m"
 white="\033[0;37m"
 nc="\033[00m"
 
-
+logo=f"""
+{bgreen}╭━━━━╮╱╱╱╱╭╮╱╱{byellow}╭╮╱╭╮╱╱╭╮{bgreen}
+┃╭╮╭╮┃╱╱╱╱┃┃╱╱{byellow}┃┃╱┃┃╱╱┃┃{bgreen}
+╰╯┃┃┣┻━┳━━┫┃╱╱{byellow}┃╰━╯┣╮╭┫╰━╮{bgreen}
+╱╱┃┃┃╭╮┃╭╮┃┣━━{byellow}┫╭━╮┃┃┃┃╭╮┃{bgreen}
+╱╱┃┃┃╰╯┃╰╯┃╰┳━{byellow}┫┃╱┃┃╰╯┃╰╯┃{bgreen}
+╱╱╰╯╰━━┻━━┻━╯{byellow}╱╰╯╱{byellow}╰┻━━┻━━╯{bgreen}
+    {bcyan}Tool by Cyber-D{red}[{purple}v{green}3.0{red}]
+"""
 
 
 if __name__=="__main__":   
