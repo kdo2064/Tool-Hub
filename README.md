@@ -1,13 +1,45 @@
-<h1>On Development</h1>
+# Tool-Hub
 
-<h2>Cyber-D-> We are still working on this project</h2>
+------------------------------------------------------------------------
 
-<h3>#command for termux</h3>
-->pkg update<br>
-->pkg upgrade<br>
-->pkg install git <br>
-->pkg install python3<br>
--> git clone https://github.com/kdo2064/Tool-Hub<br>
-->cd Tool-Hub<br>
-->python3 setup.py<br>
--->once you run setup.py then after you have to run "ToolHub.py"
+### Introduction
+
+*Tool-Hub is a Termux hacking tools installer for Termux .*
+Tool-Hub was developed for Termux by Cyber-D Army(K.D.O x Hawk x Krishna). Using Tool-Hub, you can 120 hacking tools in Termux (android) 
+
+------------------------------------------------------------------------
+
+### Operating System Requirements
+
+Tool-X works on any of the following operating systems:<br>
+• **Android** (Using the Termux App) <br>
+• **Linux** (Coming Soon) <br>
+
+
+------------------------------------------------------------------------
+
+### How to Install
+
+Open the terminal and type following commands.
+
+* `pkg update`
+
+* `pkg upgrade`
+
+* `pkg  install git`
+
+* `pkg  install python3`
+
+* `git clone https://github.com/kdo2064/Tool-Hub`
+
+* `cd Tool-Hub`
+
+* `python3 setup.py`
+
+* After runing setup.py, You can use `python3 Tool-Hub.py` to open tool
+
+------------------------------------------------------------------------
+**Warning**
+
+We are not responsible for any misuse or damage caused by this program. use this tool at your own risk!
+
